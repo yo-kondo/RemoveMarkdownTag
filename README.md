@@ -1,0 +1,2 @@
+# RemoveMarkdownTag
+Markdownのタグを削除するSakuraEditorのマクロです。
